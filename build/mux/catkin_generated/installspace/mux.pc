@@ -1,0 +1,8 @@
+prefix=/home/her/Documents/ros_multicastmux/install
+
+Name: mux
+Description: Description of mux
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

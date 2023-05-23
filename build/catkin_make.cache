@@ -1,0 +1,2 @@
+mux
+-DCATKIN_DEVEL_PREFIX=/home/her/Documents/ros_multicastmux/devel -DCMAKE_INSTALL_PREFIX=/home/her/Documents/ros_multicastmux/install -G Unix Makefiles
